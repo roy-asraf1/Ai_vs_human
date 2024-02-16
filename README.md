@@ -34,15 +34,7 @@ The inclusion of additional features such as sentiment scores, punctuation count
 The work demonstrates the effectiveness of feature engineering and advanced classification techniques in distinguishing between human-generated and AI-generated texts.
 Further experimentation with feature selection, model tuning, and data augmentation techniques could potentially enhance the performance of the classification models and address challenges such as overfitting or underfitting.
 
-The accuracy was: 0.9991666666666666
 
-The train loss was: 0.003675972013295309
-
-The test loss was: 0.010980975060806425
-
-The train error was: 0.0004166666666666208
-
-The validation error was: 0.0012499999999999734
 
 
 ![image](https://github.com/roy-asraf1/Ai_vs_human/assets/117677549/239d7fe8-303a-4db1-ae60-a904ca215694)

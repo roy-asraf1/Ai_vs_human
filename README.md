@@ -37,7 +37,3 @@ Further experimentation with feature selection, model tuning, and data augmentat
 
 
 
-![image](https://github.com/roy-asraf1/Ai_vs_human/assets/117677549/239d7fe8-303a-4db1-ae60-a904ca215694)
-![image](https://github.com/roy-asraf1/Ai_vs_human/assets/117677549/148dd83b-cdc8-4dc6-83ad-1cfdc7606a32)
-
-

@@ -9,7 +9,7 @@ The text data was tokenized, and preprocessing steps like removing stopwords, no
 2. Feature Engineering:
 Features such as text length, sentiment scores, punctuation count, count of linking words, count of synonyms, and word frequency distribution were extracted from the text data.
 3. Model Training:
-We tried the three models and finally we arrived at logistic regression, this is the model that brought us the best results. We will see screen shots at the end of the explanations
+logistic regression is the most suitable model for our project
 
 ## Improvements Made:
 1. Feature Selection:
